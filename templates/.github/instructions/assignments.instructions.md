@@ -9,7 +9,7 @@ All assignment markdown files should follow these guidelines:
 
 ## 1. Template Usage
 
-- Assignment markdown files must follow the structure in [`templates/assignment-template.md`][def]
+- Assignment markdown files must follow the structure in [`templates/assignment-template.md`](../../templates/assignment-template.md).
 - The assignment must be created as a `README.md` file
 - Do not remove or skip required sections from the template.
 
@@ -26,5 +26,3 @@ The section headers should reflect the structure in the template, including the 
    - Provide example input/output in code blocks if helpful.
 
 Do not include extra sections unless explicitly specified.
-
-[def]: ../../assignment-template.md).
