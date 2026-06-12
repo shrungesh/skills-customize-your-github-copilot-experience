@@ -1,5 +1,5 @@
 
-# 🎮 Assignment: Games in Python
+# 📘 Assignment: Games in Python
 
 ## 🎯 Objective
 
@@ -7,10 +7,10 @@ Build a classic Hangman game in Python by practicing string manipulation, loops,
 
 ## 📝 Tasks
 
-### 🛠️ Create the Game Structure
+### 🛠️ Set Up the Game
 
 #### Description
-Write a Python program that sets up a Hangman game using a predefined list of words and a limited number of guesses.
+Write a Python program that creates a Hangman game using a predefined list of words and a limited number of guesses.
 
 #### Requirements
 Completed program should:
@@ -19,7 +19,7 @@ Completed program should:
 - Display underscores for each letter in the word.
 - Prompt the player to guess one letter at a time.
 
-### 🛠️ Track Progress and Guesses
+### 🛠️ Track Progress
 
 #### Description
 Add logic to update the game state as the player makes guesses.
@@ -31,7 +31,7 @@ Completed program should:
 - Track incorrect guesses and remaining attempts.
 - Show the current word progress after each guess.
 
-### 🛠️ End the Game
+### 🛠️ Finish the Game
 
 #### Description
 Add the win and lose conditions to complete the game experience.
