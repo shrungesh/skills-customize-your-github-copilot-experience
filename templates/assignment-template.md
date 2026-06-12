@@ -2,14 +2,14 @@
 
 ## 🎯 Objective
 
-[Brief description of what the student will build or accomplish in this assignment]
+[Brief description of what the student will build or accomplish in this assignment.]
 
 ## 📝 Tasks
 
-### 🛠️	[Task 1 Title]
+### 🛠️ [Task 1 Title]
 
 #### Description
-[Description what needs to be done by the student for this task]
+[Describe what the student needs to do for this task.]
 
 #### Requirements
 Completed program should:
@@ -18,11 +18,10 @@ Completed program should:
 - [Requirement 2]
 - [Requirement 3]
 
-
-### 🛠️	[Task 2 Title]
+### 🛠️ [Task 2 Title]
 
 #### Description
-[Description what needs to be done by the student for this task]
+[Describe what the student needs to do for this task.]
 
 #### Requirements
 Completed program should:
