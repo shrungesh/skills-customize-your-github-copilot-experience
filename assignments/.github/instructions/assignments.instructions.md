@@ -16,7 +16,7 @@ All assignment markdown files should follow these guidelines:
 
 ## 2. Section Guidance
 
-The section headers should reflect the structure in the template, including the exact icon usage.
+Use the same section headings, order, and emoji style as the template.
 
 - **Title**: Replace [Assignment Title] with a short, descriptive name such as Python Basics, Loops and Conditionals, or Functions and Modules.
 - **Objective**: Write 1-2 sentences summarizing what the student will learn or accomplish. Focus on the main skills or concepts.
@@ -27,3 +27,4 @@ The section headers should reflect the structure in the template, including the 
   - Provide example input/output in code blocks when helpful.
 
 Do not add extra top-level sections unless they are explicitly required.
+
